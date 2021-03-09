@@ -7,19 +7,19 @@
 
 В результате тестирования выявлен следующий дефект:
 
-*Карты типов AMEX и Diners Club не проходят проверку на валидность
+*Карты типов AMEX и Diners Club не проходят проверку на валидность - https://github.com/meleuz/Card-Number/issues/1
 
 ## Описание процесса тестирования 
 
 В процессе тестирования использовались следующие артефакты:
 
-*Техническое задание. 
+*Техническое задание https://github.com/netology-code/javaqa-homeworks/tree/master/intro 
 
 В качестве тестовых данных использовались данные:
 
-*Техническое задание;
+*Техническое задание https://github.com/netology-code/javaqa-homeworks/tree/master/intro
 
-*Генератор валидных номеров карт. 
+*Генератор валидных номеров карт - https://www.freeformatter.com/credit-card-number-generator-validator.html
 
 Для более точного тестирования были использованы карты из разных платежных систем, в т.ч.:
 
